@@ -5,7 +5,7 @@
 
 1.Запуск через Kaggle:
 Перейдите по ссылке для открытия проекта в Kaggle.
-[![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]((https://www.kaggle.com/code/yaroslav117/notebookd4b5b00058/edit))
+[![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/yaroslav117/notebookd4b5b00058/edit)
 
 В Kaggle вы можете просмотреть, запустить и взаимодействовать с Notebook непосредственно в браузере.
 
@@ -15,6 +15,7 @@
 ![image](https://github.com/7XEZ/laba-3/assets/120032855/77a6c94e-f887-431f-ba94-c2dd554ee3cd)
 
 ![image](https://github.com/7XEZ/laba-3/assets/120032855/97e4ec65-e778-4749-af87-3fc90cdccaf2)
+
 этот код содержит  информацию о музыке и соответствующих настроениях. Код использует условные конструкции if для выбора музыкальных треков на основе определенного настроения, которое, кажется, определяется переменной result[0].
 
 ## Особенности
